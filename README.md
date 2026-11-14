@@ -2,9 +2,17 @@
 
 Built for the NASA Space Apps Hackathon.
 
+<p align="center">
+  <img src="./public/assets/slide.png" width="48%" />
+</p>
+
 OSCAR is a high-precision, web-based astronomical blink comparator built on real multi-epoch infrared sky surveys from NASA SPHEREx.
 
 Inspired by Clyde Tombaugh's optical comparator that discovered Pluto in 1930, OSCAR modernizes time-domain astronomy for 21st-century infrared space telescope surveys.
+
+<p align="center">
+  <img src="./public/assets/oscar.png" width="48%" />
+</p>
 
 ### Highlights
 
